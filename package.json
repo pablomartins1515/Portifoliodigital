@@ -1,0 +1,16 @@
+{
+  "name": "pablomartins1515",
+  "version": "1.0.0",
+  "description": "designerux",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablomartins1515/designerux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablomartins1515/designerux/issues"
+  },
+  "homepage": "https://github.com/pablomartins1515/designerux#readme"
+}
